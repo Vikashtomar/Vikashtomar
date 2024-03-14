@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full stack Web-development**
 
-- 👯 I’m looking to collaborate on **Front-End Development**
+- 👯 I’m looking to collaborate on **Front-End Development** 
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React.JS**
 
